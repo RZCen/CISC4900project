@@ -4,15 +4,21 @@ using UnityEngine;
 
 public class EnterDialog : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public GameObject enterDialog;
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        
+        if(collision.tag == "Player")
+        {
+            enterDialog.SetActive(true);
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    private void OnTriggerExit2D(Collider2D collision)
     {
-        
+        if (collision.tag == "Player")
+        {
+            enterDialog.SetActive(false);
+        }
     }
 }
