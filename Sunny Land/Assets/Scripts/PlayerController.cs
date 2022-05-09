@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
     public int Cherry;
 
     public Text CherryNum;
+    private bool isHurt;
     
     void Start()
     {
@@ -25,7 +26,10 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Movement();
+        if (!isHurt)
+        {
+            Movement();
+        }
         SwitchAnim();
     }
 
@@ -61,7 +65,18 @@ public class PlayerController : MonoBehaviour
                 anim.SetBool("jumping", false);
                 anim.SetBool("falling", true);
             }
-        }else if (coll.IsTouchingLayers(ground))
+        }else if (isHurt)
+        {
+            anim.SetBool("hurt", true);
+            anim.SetFloat("running", 0);
+            if (Mathf.Abs(rb.velocity.x) < 0.1f)
+            {
+                anim.SetBool("hurt", false);
+                anim.SetBool("idle", true);
+                isHurt = false;
+            }
+        }
+        else if (coll.IsTouchingLayers(ground))
         {
             anim.SetBool("falling", false);
             anim.SetBool("idle", true);
@@ -87,6 +102,15 @@ public class PlayerController : MonoBehaviour
                 Destroy(collision.gameObject);
                 rb.velocity = new Vector2(rb.velocity.x, jumpforce);
                 anim.SetBool("jumping", true);
+            }else if(transform.position.x < collision.gameObject.transform.position.x)
+            {
+                rb.velocity = new Vector2(-10, rb.velocity.y);
+                isHurt = true;
+            }
+            else if (transform.position.x > collision.gameObject.transform.position.x)
+            {
+                rb.velocity = new Vector2(10, rb.velocity.y);
+                isHurt = true;
             }
         }
     }
