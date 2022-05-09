@@ -5322,3 +5322,768 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 184.963766 seconds.
+  path: Assets/prefabs/Frog.prefab
+  artifactKey: Guid(9325b740d97e2492a9f74eeb3f14718c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/Frog.prefab using Guid(9325b740d97e2492a9f74eeb3f14718c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af0b882191a5b867a3cc057abf6f52c8') in 0.141331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/prefabs/Player.prefab
+  artifactKey: Guid(979f26bd161c345228d09fb9ff614e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/Player.prefab using Guid(979f26bd161c345228d09fb9ff614e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abaf4096f8560857b7db65697c0c407f') in 0.014006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.293891 seconds.
+  path: Assets/prefabs/Eagle.prefab
+  artifactKey: Guid(d7cff4f4ccef44f8b9482b205d44fa6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/Eagle.prefab using Guid(d7cff4f4ccef44f8b9482b205d44fa6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f42fd489d196303e731973b5d38e1237') in 0.010490 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 162.101309 seconds.
+  path: Assets/CasualGameBGM05/BGM_01.wav
+  artifactKey: Guid(475f4837af487ce4a9e68bb227455e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameBGM05/BGM_01.wav using Guid(475f4837af487ce4a9e68bb227455e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eae321bbff73e79cf7f6d03bb6cf6ad4') in 0.443388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/CasualGameBGM05/BGM_02.wav
+  artifactKey: Guid(90eae78e8ce85a849b5b0ca11b2de641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameBGM05/BGM_02.wav using Guid(90eae78e8ce85a849b5b0ca11b2de641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99d374f78342ee27061fa664f174f49a') in 0.008665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/CasualGameBGM05/BGM_03.wav
+  artifactKey: Guid(47f45ef7b5767674393cc401fc325705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameBGM05/BGM_03.wav using Guid(47f45ef7b5767674393cc401fc325705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d11d7833e37db5f4513832142219a0b') in 0.008050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/CasualGameBGM05/BGM_04.wav
+  artifactKey: Guid(1532c7e67c2d60c4c8780da14b7e8fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameBGM05/BGM_04.wav using Guid(1532c7e67c2d60c4c8780da14b7e8fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3429e640c8bd374d557c3d80d4fbfaf9') in 0.008755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 87.586912 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/UI
+  artifactKey: Guid(0f0f0aa971256e0499d5bb5cd7b8f0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/UI using Guid(0f0f0aa971256e0499d5bb5cd7b8f0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6ed086b130371e6ca87306cff77d581') in 0.000923 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.451474 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item
+  artifactKey: Guid(d736a6f00d637764abf901f2a4064614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item using Guid(d736a6f00d637764abf901f2a4064614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '631b8278862ee071b836139dd6efcf11') in 0.002324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.037734 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Attack.wav
+  artifactKey: Guid(132f502e03330844293c60b2ea839b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Attack.wav using Guid(132f502e03330844293c60b2ea839b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b933865f0925b7247f286699f794db4') in 0.008552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Die_3 long.wav
+  artifactKey: Guid(121df4ff91858d9498a8f60b32028fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Die_3 long.wav using Guid(121df4ff91858d9498a8f60b32028fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '672944a8ae5f688b51320100e747b2cb') in 0.007678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Razor2.wav
+  artifactKey: Guid(324f5296ef639b741abcd771cda87612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Razor2.wav using Guid(324f5296ef639b741abcd771cda87612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45895f14ceaf9b0bce1edabb5bcd1412') in 0.007514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Item2.wav
+  artifactKey: Guid(8a40c51b6f5a7244b9074b73808f35bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Item2.wav using Guid(8a40c51b6f5a7244b9074b73808f35bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68256e71ad28f89a37952a9a5792c9c4') in 0.008164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Ring2.wav
+  artifactKey: Guid(d8300bd98d8415546a4444a75baa4b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Ring2.wav using Guid(d8300bd98d8415546a4444a75baa4b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdb5fe560d91ffb968f0af6b856ce180') in 0.007953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Jump.wav
+  artifactKey: Guid(026076d371cdc604482a1794035cb5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Jump.wav using Guid(026076d371cdc604482a1794035cb5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '515fc3410ae75b258a9c161453782e30') in 0.007754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Missile2.wav
+  artifactKey: Guid(f43513c8bf5be234a8769368ef090184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Missile2.wav using Guid(f43513c8bf5be234a8769368ef090184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '310618f2d7f40cf788bb10bb2980d023') in 0.008133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Missile.wav
+  artifactKey: Guid(1ed1708d2064a9042ba3ee70b4bb36a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Missile.wav using Guid(1ed1708d2064a9042ba3ee70b4bb36a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e4dfebf710fbd51e97a5d42db50970f') in 0.007630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Computer_search2.wav
+  artifactKey: Guid(3dbf449f2265b5a4cb4dd532a4cbafcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Computer_search2.wav using Guid(3dbf449f2265b5a4cb4dd532a4cbafcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04aee9942ebc3af9fd2bdc3f87988133') in 0.007580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Move.wav
+  artifactKey: Guid(302e6693f3313f34b86a9ee262cbdf1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Move.wav using Guid(302e6693f3313f34b86a9ee262cbdf1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c5e38ebd70764e541b2a3300b3edb29') in 0.007446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Computer_search.wav
+  artifactKey: Guid(cbbc00cb47ac0654aadac129f5592961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Computer_search.wav using Guid(cbbc00cb47ac0654aadac129f5592961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199cfefe54266fa56206a859bc54c7fd') in 0.007479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Explosion.wav
+  artifactKey: Guid(2a1d9457615d7db41ac9e1eec282ffbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Explosion.wav using Guid(2a1d9457615d7db41ac9e1eec282ffbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35d18a8941cc8efc2a6367b20518ade3') in 0.007000 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/bomb.wav
+  artifactKey: Guid(242fa02f88aa7914f8f16f152836c02a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/bomb.wav using Guid(242fa02f88aa7914f8f16f152836c02a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beb502183c74d80c5385f1dc1d2066a5') in 0.007133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Die_3.wav
+  artifactKey: Guid(a3ff8a98bf8e5ab4fa7f8b085fb35dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Die_3.wav using Guid(a3ff8a98bf8e5ab4fa7f8b085fb35dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51347c60e90314907ac48b40cc5e95b3') in 0.007370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Digital_Sword.wav
+  artifactKey: Guid(09986dc0305edc04685092434e463380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Digital_Sword.wav using Guid(09986dc0305edc04685092434e463380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c2b42627e6bc800c541ffb7caeb47e7') in 0.007685 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Fall.wav
+  artifactKey: Guid(db1bffbd883ee5447969e50b34ad8e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Fall.wav using Guid(db1bffbd883ee5447969e50b34ad8e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af7cc35a35d4c1f47bc7c4c6e938f1e9') in 0.007249 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Jump5.wav
+  artifactKey: Guid(353d8a9f4c12b21459f2e9446740e995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Jump5.wav using Guid(353d8a9f4c12b21459f2e9446740e995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a222b2a8b0dad0183c69e65462d4f4a') in 0.007083 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Item3.wav
+  artifactKey: Guid(e157d8c7fe1c3c64c912271f5c63885f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Item3.wav using Guid(e157d8c7fe1c3c64c912271f5c63885f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53bcd1dfc29cd28b44ee74fa42db0383') in 0.007575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Warning_Loop2.wav
+  artifactKey: Guid(3f54be1e78029384b9c71bcf8374febb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Warning_Loop2.wav using Guid(3f54be1e78029384b9c71bcf8374febb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63f466f61f5a16eb2802262326a1019') in 0.007618 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Jump3.wav
+  artifactKey: Guid(597ee0a5723f6bf46983a722794fe26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Jump3.wav using Guid(597ee0a5723f6bf46983a722794fe26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6f2ac00cd023a5a32a2b33ad74376a2') in 0.008365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Attack2.wav
+  artifactKey: Guid(61f1c1a6ae8668144ac74a4a0390ab20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Attack2.wav using Guid(61f1c1a6ae8668144ac74a4a0390ab20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4383a14080b83b5584e976c67a940d38') in 0.007913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Die_2.wav
+  artifactKey: Guid(662f8b0fe7f39d341a63968054ccc95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Die_2.wav using Guid(662f8b0fe7f39d341a63968054ccc95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fafc694628e492ea8a1fef4cd6fd7859') in 0.008055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Razor1.wav
+  artifactKey: Guid(363285aa31cfc2f46b3c2f8af2a1dcb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Razor1.wav using Guid(363285aa31cfc2f46b3c2f8af2a1dcb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd615b5a1768945db200d142ee5bd299') in 0.007741 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Jump2.wav
+  artifactKey: Guid(3409bffbc0cbcb84fb2cdd58497ac01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Jump2.wav using Guid(3409bffbc0cbcb84fb2cdd58497ac01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89eeb708ee850d4207835869d41aa88d') in 0.007360 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Warning_Loop1.wav
+  artifactKey: Guid(ecd31749e627d5847a9dada02dc42dfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Warning_Loop1.wav using Guid(ecd31749e627d5847a9dada02dc42dfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc9057726efa33f9d1e3372e8cffde6') in 0.007389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Ring1.wav
+  artifactKey: Guid(8bc7b320da898d449a413d878a2c5647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Ring1.wav using Guid(8bc7b320da898d449a413d878a2c5647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c91137d477768ac4b194ad1ae226ee') in 0.007237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Item.wav
+  artifactKey: Guid(b41b1637a28574c4897cc00cadd39efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Item.wav using Guid(b41b1637a28574c4897cc00cadd39efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bdd8b7f98f3ade1202f00f64b006410') in 0.007102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Item4.wav
+  artifactKey: Guid(22c28920f9abb5442a566b9b6d077e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Item4.wav using Guid(22c28920f9abb5442a566b9b6d077e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ce0738e0c5da012df8937f8bcdf27a7') in 0.007770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Die_1.wav
+  artifactKey: Guid(45484bfd721ed524e97fa4617b9855f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Die_1.wav using Guid(45484bfd721ed524e97fa4617b9855f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee29c44ecfe17a40950e1edf7c574a0') in 0.007545 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Jump4.wav
+  artifactKey: Guid(d4d41b15f8d53174d9b4e24a5ba90f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Jump4.wav using Guid(d4d41b15f8d53174d9b4e24a5ba90f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'debc8c1ee5780fdba383c81d1da254d3') in 0.007346 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001842 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/runzecen/Documents/4900project/CISC4900project/Sunny Land/Library/PackageCache/com.unity.collab-proxy@1.15.15/Lib/Editor/PlasticSCM/unityplastic.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-09 16:58:28.082 Unity[14979:234912] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000009809a0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.264 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2266ms)
+		BeginReloadAssembly (198ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (38ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (66ms)
+		EndReloadAssembly (1974ms)
+			LoadAssemblies (166ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (351ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (1103ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (252ms)
+				ProcessInitializeOnLoadAttributes (797ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (36ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2348 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 264.0 MB.
+System memory in use after: 264.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3078.
+Total: 2.304416 ms (FindLiveObjects: 0.121375 ms CreateObjectMapping: 0.049167 ms MarkObjects: 1.998458 ms  DeleteObjects: 0.134625 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002378 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/runzecen/Documents/4900project/CISC4900project/Sunny Land/Library/PackageCache/com.unity.collab-proxy@1.15.15/Lib/Editor/PlasticSCM/unityplastic.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-09 16:59:42.326 Unity[14979:234912] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000009e6ed0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.239 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2240ms)
+		BeginReloadAssembly (202ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (38ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (69ms)
+		EndReloadAssembly (1946ms)
+			LoadAssemblies (164ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (350ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (1081ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (248ms)
+				ProcessInitializeOnLoadAttributes (781ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (35ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2348 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 264.1 MB.
+System memory in use after: 264.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3081.
+Total: 2.384666 ms (FindLiveObjects: 0.106333 ms CreateObjectMapping: 0.048125 ms MarkObjects: 2.127417 ms  DeleteObjects: 0.101958 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000989 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/runzecen/Documents/4900project/CISC4900project/Sunny Land/Library/PackageCache/com.unity.collab-proxy@1.15.15/Lib/Editor/PlasticSCM/unityplastic.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-09 17:02:06.401 Unity[14979:234912] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000009cd030 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.242 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2243ms)
+		BeginReloadAssembly (209ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (34ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (61ms)
+		EndReloadAssembly (1946ms)
+			LoadAssemblies (183ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (326ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (1112ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (18ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (248ms)
+				ProcessInitializeOnLoadAttributes (808ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (37ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2348 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 264.3 MB.
+System memory in use after: 264.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3084.
+Total: 2.376125 ms (FindLiveObjects: 0.104917 ms CreateObjectMapping: 0.047833 ms MarkObjects: 2.116000 ms  DeleteObjects: 0.106458 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002331 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/runzecen/Documents/4900project/CISC4900project/Sunny Land/Library/PackageCache/com.unity.collab-proxy@1.15.15/Lib/Editor/PlasticSCM/unityplastic.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-09 17:05:45.996 Unity[14979:234912] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000009fbdb0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.290 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2291ms)
+		BeginReloadAssembly (199ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (38ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (66ms)
+		EndReloadAssembly (1999ms)
+			LoadAssemblies (170ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (348ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (1113ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (254ms)
+				ProcessInitializeOnLoadAttributes (801ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (40ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2348 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 264.5 MB.
+System memory in use after: 264.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3087.
+Total: 2.538750 ms (FindLiveObjects: 0.119875 ms CreateObjectMapping: 0.051833 ms MarkObjects: 2.256333 ms  DeleteObjects: 0.110000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002316 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/runzecen/Documents/4900project/CISC4900project/Sunny Land/Library/PackageCache/com.unity.collab-proxy@1.15.15/Lib/Editor/PlasticSCM/unityplastic.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-09 17:07:07.726 Unity[14979:234912] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000009c6a00 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.249 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2250ms)
+		BeginReloadAssembly (198ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (38ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (66ms)
+		EndReloadAssembly (1958ms)
+			LoadAssemblies (165ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (344ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (1107ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (254ms)
+				ProcessInitializeOnLoadAttributes (802ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (34ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2348 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 264.7 MB.
+System memory in use after: 264.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3090.
+Total: 2.422334 ms (FindLiveObjects: 0.103500 ms CreateObjectMapping: 0.048875 ms MarkObjects: 2.172167 ms  DeleteObjects: 0.096875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000843 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/runzecen/Documents/4900project/CISC4900project/Sunny Land/Library/PackageCache/com.unity.collab-proxy@1.15.15/Lib/Editor/PlasticSCM/unityplastic.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-09 17:08:35.915 Unity[14979:234912] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000009dd810 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.180 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2181ms)
+		BeginReloadAssembly (190ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (36ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (64ms)
+		EndReloadAssembly (1903ms)
+			LoadAssemblies (158ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (327ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (1074ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (248ms)
+				ProcessInitializeOnLoadAttributes (774ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (36ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2348 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 264.9 MB.
+System memory in use after: 265.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3093.
+Total: 2.535750 ms (FindLiveObjects: 0.109208 ms CreateObjectMapping: 0.047541 ms MarkObjects: 2.245959 ms  DeleteObjects: 0.128666 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001587 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/runzecen/Documents/4900project/CISC4900project/Sunny Land/Library/PackageCache/com.unity.collab-proxy@1.15.15/Lib/Editor/PlasticSCM/unityplastic.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-09 17:12:35.553 Unity[14979:234912] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000009df720 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.270 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2271ms)
+		BeginReloadAssembly (198ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (39ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (64ms)
+		EndReloadAssembly (1980ms)
+			LoadAssemblies (164ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (348ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (1111ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (256ms)
+				ProcessInitializeOnLoadAttributes (799ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (35ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2348 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 265.0 MB.
+System memory in use after: 265.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3096.
+Total: 2.276042 ms (FindLiveObjects: 0.109750 ms CreateObjectMapping: 0.047666 ms MarkObjects: 2.005334 ms  DeleteObjects: 0.112584 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002385 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/runzecen/Documents/4900project/CISC4900project/Sunny Land/Library/PackageCache/com.unity.collab-proxy@1.15.15/Lib/Editor/PlasticSCM/unityplastic.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-09 17:15:13.433 Unity[14979:234912] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000099cd90 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.285 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2286ms)
+		BeginReloadAssembly (220ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (37ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (65ms)
+		EndReloadAssembly (1972ms)
+			LoadAssemblies (194ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (350ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (1092ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (257ms)
+				ProcessInitializeOnLoadAttributes (781ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (37ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2348 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 265.3 MB.
+System memory in use after: 265.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3099.
+Total: 2.359334 ms (FindLiveObjects: 0.108292 ms CreateObjectMapping: 0.047917 ms MarkObjects: 2.093166 ms  DeleteObjects: 0.109083 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001086 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/runzecen/Documents/4900project/CISC4900project/Sunny Land/Library/PackageCache/com.unity.collab-proxy@1.15.15/Lib/Editor/PlasticSCM/unityplastic.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-09 17:16:36.817 Unity[14979:234912] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600000980f50 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.174 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2175ms)
+		BeginReloadAssembly (191ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (35ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (63ms)
+		EndReloadAssembly (1894ms)
+			LoadAssemblies (160ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (320ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (1066ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (240ms)
+				ProcessInitializeOnLoadAttributes (768ms)
+				ProcessInitializeOnLoadMethodAttributes (41ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (39ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2348 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 265.5 MB.
+System memory in use after: 265.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3102.
+Total: 2.312834 ms (FindLiveObjects: 0.098792 ms CreateObjectMapping: 0.047750 ms MarkObjects: 2.072541 ms  DeleteObjects: 0.092875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
