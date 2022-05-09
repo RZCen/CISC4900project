@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
@@ -12,6 +13,8 @@ public class PlayerController : MonoBehaviour
     public float jumpforce;
     public LayerMask ground;
     public int Cherry;
+
+    public Text CherryNum;
     
     void Start()
     {
@@ -41,7 +44,7 @@ public class PlayerController : MonoBehaviour
             transform.localScale = new Vector3(facedircetion, 1, 1);
         }
         //jump
-        if (Input.GetButtonDown("Jump"))
+        if (Input.GetButtonDown("Jump") && coll.IsTouchingLayers(ground))
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpforce);
             anim.SetBool("jumping", true);
@@ -71,6 +74,7 @@ public class PlayerController : MonoBehaviour
         {
             Destroy(collision.gameObject);
             Cherry += 1;
+            CherryNum.text = Cherry.ToString();
         }
     }
 }
