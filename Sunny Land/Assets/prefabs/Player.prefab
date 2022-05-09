@@ -117,7 +117,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 2789279260024655770}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 512d7e153e0184fcfb572eec160388c6, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -169,6 +169,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   Cherry: 0
+  CherryNum: {fileID: 0}
 --- !u!95 &2789279260024655773
 Animator:
   serializedVersion: 3
