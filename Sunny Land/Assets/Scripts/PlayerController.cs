@@ -40,6 +40,7 @@ public class PlayerController : MonoBehaviour
     {
         Jump();
         Crouch();
+        CherryNum.text = Cherry.ToString();
     }
 
     void Movement()
@@ -100,9 +101,10 @@ public class PlayerController : MonoBehaviour
         if(collision.tag == "Collection")
         {
             cherryAudio.Play();
-            Destroy(collision.gameObject);
-            Cherry += 1;
-            CherryNum.text = Cherry.ToString();
+            //Destroy(collision.gameObject);
+            //Cherry += 1;
+            collision.GetComponent<Animator>().Play("isGot");
+            //CherryNum.text = Cherry.ToString();
         }
 
         if (collision.tag == "DeadLine")
@@ -170,5 +172,10 @@ public class PlayerController : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         
+    }
+
+    public void CherryCount()
+    {
+        Cherry += 1;
     }
 }
