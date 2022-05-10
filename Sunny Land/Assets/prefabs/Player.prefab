@@ -203,7 +203,7 @@ MonoBehaviour:
   jumpAudio: {fileID: 4277631532553832221}
   hurtAudio: {fileID: 4851721334828150}
   cherryAudio: {fileID: 4125196954975492032}
-  speed: 10
+  speed: 400
   JumpForce: 9
   ground:
     serializedVersion: 2

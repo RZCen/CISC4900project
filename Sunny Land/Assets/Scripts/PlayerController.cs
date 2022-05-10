@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -26,13 +27,19 @@ public class PlayerController : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         if (!isHurt)
         {
             Movement();
         }
         SwitchAnim();
+    }
+
+    private void Update()
+    {
+        Jump();
+        Crouch();
     }
 
     void Movement()
@@ -42,27 +49,21 @@ public class PlayerController : MonoBehaviour
         //move
         if(horizontalMove != 0)
         {
-            rb.velocity = new Vector2(horizontalMove * speed, rb.velocity.y);
+            rb.velocity = new Vector2(horizontalMove * speed * Time.fixedDeltaTime, rb.velocity.y);
             anim.SetFloat("running", Mathf.Abs(facedircetion)); ;
         }
         if(facedircetion != 0)
         {
             transform.localScale = new Vector3(facedircetion, 1, 1);
         }
-        //jump
-        if (Input.GetButtonDown("Jump") && coll.IsTouchingLayers(ground))
-        {
-            rb.velocity = new Vector2(rb.velocity.x, JumpForce);
-            jumpAudio.Play();
-            anim.SetBool("jumping", true);
-        }
+        
 
-        Crouch();
+        
     }
 
     void SwitchAnim()
     {
-        anim.SetBool("idle", false);
+        //anim.SetBool("idle", false);
 
         if(rb.velocity.y < 0.1f && !coll.IsTouchingLayers(ground))
         {
@@ -82,19 +83,20 @@ public class PlayerController : MonoBehaviour
             if (Mathf.Abs(rb.velocity.x) < 0.1f)
             {
                 anim.SetBool("hurt", false);
-                anim.SetBool("idle", true);
+                //anim.SetBool("idle", true);
                 isHurt = false;
             }
         }
         else if (coll.IsTouchingLayers(ground))
         {
             anim.SetBool("falling", false);
-            anim.SetBool("idle", true);
+            //anim.SetBool("idle", true);
         }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        //Collection
         if(collision.tag == "Collection")
         {
             cherryAudio.Play();
@@ -102,6 +104,13 @@ public class PlayerController : MonoBehaviour
             Cherry += 1;
             CherryNum.text = Cherry.ToString();
         }
+
+        if (collision.tag == "DeadLine")
+        {
+            GetComponent<AudioSource>().enabled = false;
+            Invoke("Restart", 2f);
+        }
+
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -144,5 +153,22 @@ public class PlayerController : MonoBehaviour
                 DisColl.enabled = true;
             }
         }
+    }
+
+    void Jump()
+    {
+        //jump
+        if (Input.GetButtonDown("Jump") && coll.IsTouchingLayers(ground))
+        {
+            rb.velocity = new Vector2(rb.velocity.x, JumpForce);
+            jumpAudio.Play();
+            anim.SetBool("jumping", true);
+        }
+    }
+
+    void Restart()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        
     }
 }
