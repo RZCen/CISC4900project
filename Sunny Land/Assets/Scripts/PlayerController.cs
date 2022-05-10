@@ -8,6 +8,8 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private Animator anim;
     public Collider2D coll;
+    public Collider2D DisColl;
+    public Transform CeilingCheck;
     public AudioSource jumpAudio, hurtAudio, cherryAudio;
     public float speed;
     public float JumpForce;
@@ -54,6 +56,8 @@ public class PlayerController : MonoBehaviour
             jumpAudio.Play();
             anim.SetBool("jumping", true);
         }
+
+        Crouch();
     }
 
     void SwitchAnim()
@@ -121,6 +125,23 @@ public class PlayerController : MonoBehaviour
                 rb.velocity = new Vector2(10, rb.velocity.y);
                 hurtAudio.Play();
                 isHurt = true;
+            }
+        }
+    }
+
+    void Crouch()
+    {
+        if (!Physics2D.OverlapCircle(CeilingCheck.position, 0.2f, ground))
+        {
+            if (Input.GetButton("Crouch"))
+            {
+                anim.SetBool("crouching", true);
+                DisColl.enabled = false;
+            }
+            else
+            {
+                anim.SetBool("crouching", false);
+                DisColl.enabled = true;
             }
         }
     }
