@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
     private Animator anim;
     public Collider2D coll;
     public Collider2D DisColl;
-    public Transform CeilingCheck;
+    public Transform CeilingCheck, GroundCheck;
     public AudioSource jumpAudio, hurtAudio, cherryAudio;
     public float speed;
     public float JumpForce;
@@ -19,6 +19,8 @@ public class PlayerController : MonoBehaviour
 
     public Text CherryNum;
     private bool isHurt;
+    private bool isGround;
+    private int extraJump;
     
     void Start()
     {
@@ -34,13 +36,15 @@ public class PlayerController : MonoBehaviour
             Movement();
         }
         SwitchAnim();
+        isGround = Physics2D.OverlapCircle(GroundCheck.position, 0.2f, ground);
     }
 
     private void Update()
     {
-        Jump();
+        //Jump();
         Crouch();
         CherryNum.text = Cherry.ToString();
+        newJump();
     }
 
     void Movement()
@@ -157,7 +161,7 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    void Jump()
+    /*void Jump()
     {
         //jump
         if (Input.GetButtonDown("Jump") && coll.IsTouchingLayers(ground))
@@ -165,6 +169,27 @@ public class PlayerController : MonoBehaviour
             rb.velocity = new Vector2(rb.velocity.x, JumpForce);
             jumpAudio.Play();
             anim.SetBool("jumping", true);
+        }
+    }*/
+
+    void newJump()
+    {
+        if (isGround)
+        {
+            extraJump = 2;
+        }
+        if(Input.GetButtonDown("Jump") && extraJump > 0)
+        {
+            rb.velocity = Vector2.up * JumpForce;
+            extraJump--;
+            anim.SetBool("jumping", true);
+            jumpAudio.Play();
+        }
+        if (Input.GetButtonDown("Jump") && extraJump == 0 && isGround)
+        {
+            rb.velocity = Vector2.up * JumpForce;
+            anim.SetBool("jumping", true);
+            jumpAudio.Play();
         }
     }
 
